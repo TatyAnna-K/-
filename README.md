@@ -17,10 +17,10 @@
 
 ## Навигация попроектам
 
-### Анализ данных, визуализация и ABC-анализ в Python
+### [Анализ данных, визуализация и ABC-анализ в Python] 
 
 
-### ABC/XYZ-анализ в SQL
+### [ABC/XYZ-анализ в SQL](https://github.com/tatyannak/data-analysis-project) 
 
 
 ### Анализ работы онлайн - сервиса в SQL и Power BI
