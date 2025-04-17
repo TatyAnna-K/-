@@ -17,19 +17,19 @@
 
 ## Навигация попроектам
 
-### [Анализ данных, визуализация и ABC-анализ в Python] 
+### [Анализ данных, визуализация и ABC-анализ в Python](https://github.com/TatyAnna-K/data_analysis_python)
 
 
 ### [ABC/XYZ-анализ в SQL](https://github.com/TatyAnna-K/abc-xyz-sql-analysis)
 
 
-### Анализ работы онлайн - сервиса в SQL и Power BI
+### [Анализ работы онлайн - сервиса в SQL и Power BI](https://github.com/TatyAnna-K/analysis_service_Mentorhub)
 
 
-### Анализ продаж и отчет в Power BI
+### [Анализ продаж и отчет в Power BI](https://github.com/TatyAnna-K/sales_analysis_power_bi)
 
 
-### Развитие сервиса доставки еды в Excel
+### [Развитие сервиса доставки еды в Excel](https://github.com/TatyAnna-K/delivery_analysis_excel)
 
 
 ---
